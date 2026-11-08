@@ -44,3 +44,7 @@ regenerate `Resources/AppIcon.icns` after changing it.
   restored when moved). Windows on other Spaces aren't listed, because macOS doesn't expose them to the
   Accessibility API.
 - **Full-screen windows** are listed but can't be moved.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
